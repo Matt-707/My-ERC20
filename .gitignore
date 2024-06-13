@@ -14,4 +14,3 @@ docs/
 .env
 
 #lib files that I copied and pasted
-/lib/openzeppelin-contracts
